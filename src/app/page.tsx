@@ -88,7 +88,7 @@ export default function HomePage() {
 
           <div className="relative w-full max-w-5xl mx-auto rounded-2xl overflow-hidden shadow-2xl border-4 border-amber-500/30">
             <Image
-              src="/videos/homepage image.jpg"
+              src="/homepage image/homepage image.jpg"
               alt="Exquisite jewellery craftsmanship"
               width={1200}
               height={675}
