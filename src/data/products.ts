@@ -11,6 +11,54 @@ export const products: Product[] = [
   // Earrings
   {
     id: 1,
+    name: "Stainless Steel Golden Earrings",
+    code: "EAR013",
+    price: 450,
+    image: "/images/products/earrings/Golden Earrings.jpg",
+    category: "earrings"
+  },
+  {
+    id: 2,
+    name: "Stainless Steel Golden Flower Earrings",
+    code: "EAR014",
+    price: 550,
+    image: "/images/products/earrings/Golden Flower Earrings.jpg",
+    category: "earrings"
+  },
+  {
+    id: 3,
+    name: "Stainless Steel Silver Flower Earrings",
+    code: "EAR015",
+    price: 550,
+    image: "/images/products/earrings/Silver Flowe Earrings.jpg",
+    category: "earrings"
+  },
+  {
+    id: 4,
+    name: "Stainless Steel Silver Round Earrings",
+    code: "EAR016",
+    price: 550,
+    image: "/images/products/earrings/Round Earrings.jpg",
+    category: "earrings"
+  },
+  {
+    id: 5,
+    name: "Black Golden Studs",
+    code: "EAR017",
+    price: 450,
+    image: "/images/products/earrings/Black Golden Studs.jpg",
+    category: "earrings"
+  },
+  {
+    id: 6,
+    name: "Antique Black Jhumka",
+    code: "EAR018",
+    price: 680,
+    image: "/images/products/earrings/Antique Black Jhumka.jpg",
+    category: "earrings"
+  },
+  {
+    id: 7,
     name: "3 Pair Studs Set",
     code: "EAR001",
     price: 550,
@@ -18,7 +66,7 @@ export const products: Product[] = [
     category: "earrings"
   },
   {
-    id: 2,
+    id: 8,
     name: "3 Pair Studs Set",
     code: "EAR002",
     price: 550,
@@ -26,7 +74,7 @@ export const products: Product[] = [
     category: "earrings"
   },
   {
-    id: 3,
+    id: 9,
     name: "3 Pair Studs Set",
     code: "EAR003",
     price: 550,
@@ -34,7 +82,7 @@ export const products: Product[] = [
     category: "earrings"
   },
   {
-    id: 4,
+    id: 10,
     name: "Antique Green Jhumka",
     code: "EAR004",
     price: 700,
@@ -42,7 +90,7 @@ export const products: Product[] = [
     category: "earrings"
   },
   {
-    id: 5,
+    id: 11,
     name: "Antique Navy Blue Jhumka",
     code: "EAR005",
     price: 700,
@@ -50,7 +98,7 @@ export const products: Product[] = [
     category: "earrings"
   },
   {
-    id: 6,
+    id: 12,
     name: "Antique Pink Jhumka",
     code: "EAR006",
     price: 700,
@@ -58,7 +106,7 @@ export const products: Product[] = [
     category: "earrings"
   },
   {
-    id: 7,
+    id: 13,
     name: "Antique Silver Golden Bali",
     code: "EAR007",
     price: 600,
@@ -66,7 +114,7 @@ export const products: Product[] = [
     category: "earrings"
   },
   {
-    id: 8,
+    id: 14,
     name: "Antique Antique Style Black Silver Earrings",
     code: "EAR008",
     price: 650,
@@ -74,7 +122,7 @@ export const products: Product[] = [
     category: "earrings"
   },
   {
-    id: 9,
+    id: 15,
     name: "Antique Antique Style Golden Earrings",
     code: "EAR009",
     price: 650,
@@ -82,7 +130,7 @@ export const products: Product[] = [
     category: "earrings"
   },
    {
-    id: 10,
+    id: 16,
     name: "Hanging Studs",
     code: "EAR010",
     price: 550,
@@ -90,7 +138,7 @@ export const products: Product[] = [
     category: "earrings"
   },
   {
-    id: 11,
+    id: 17,
     name: "One Stone Studs",
     code: "EAR011",
     price: 600,
@@ -98,17 +146,33 @@ export const products: Product[] = [
     category: "earrings"
   },
   {
-    id: 12,
+    id: 18,
     name: "Stainless Steel Silver Golden Bali",
     code: "EAR012",
     price: 600,
     image: "/images/products/earrings/Stainless Steel Silven Golden Bali.jpg",
     category: "earrings"
   },
-  
+
   // Necklace
   {
-    id: 13,
+    id: 19,
+    name: "Stainless Steel Locket Chain",
+    code: "NEC018",
+    price: 850,
+    image: "/images/products/necklace/Stainless Steel Locket Chain18.jpg",
+    category: "necklace"
+  },
+  {
+    id: 20,
+    name: "Stainless Steel Letter Locket Chain",
+    code: "NEC019",
+    price: 1250,
+    image: "/images/products/necklace/Stainless Steel Locket Chain19.jpg",
+    category: "necklace"
+  },
+  {
+    id: 21,
     name: "Stainless Steel Locket Chain",
     code: "NEC001",
     price: 850,
@@ -116,7 +180,7 @@ export const products: Product[] = [
     category: "necklace"
   },
    {
-    id: 14,
+    id: 22,
     name: "Stainless Steel Locket Chain",
     code: "NEC002",
     price: 800,
@@ -124,7 +188,7 @@ export const products: Product[] = [
     category: "necklace"
   },
    {
-    id: 15,
+    id: 23,
     name: "Stainless Steel Locket Chain",
     code: "NEC003",
     price: 850,
@@ -132,7 +196,7 @@ export const products: Product[] = [
     category: "necklace"
   },
   {
-    id: 16,
+    id: 24,
     name: "Stainless Steel Locket Chain",
     code: "NEC004",
     price: 750,
@@ -140,7 +204,7 @@ export const products: Product[] = [
     category: "necklace"
   },
   {
-    id: 17,
+    id: 25,
     name: "Stainless Steel Locket Chain",
     code: "NEC005",
     price: 800,
@@ -148,7 +212,7 @@ export const products: Product[] = [
     category: "necklace"
   },
   {
-    id: 18,
+    id: 26,
     name: "Stainless Steel Locket Chain",
     code: "NEC006",
     price: 850,
@@ -156,7 +220,7 @@ export const products: Product[] = [
     category: "necklace"
   },
   {
-    id: 19,
+    id: 27,
     name: "Stainless Steel Locket Chain",
     code: "NEC007",
     price: 800,
@@ -164,7 +228,7 @@ export const products: Product[] = [
     category: "necklace"
   },
   {
-    id: 20,
+    id: 28,
     name: "Stainless Steel Locket Chain",
     code: "NEC008",
     price: 850,
@@ -172,7 +236,7 @@ export const products: Product[] = [
     category: "necklace"
   },
   {
-    id: 21,
+    id: 29,
     name: "Stainless Steel Locket Chain",
     code: "NEC009",
     price: 800,
@@ -180,7 +244,7 @@ export const products: Product[] = [
     category: "necklace"
   },
   {
-    id: 22,
+    id: 30,
     name: "Stainless Steel Locket Chain",
     code: "NEC010",
     price: 950,
@@ -188,7 +252,7 @@ export const products: Product[] = [
     category: "necklace"
   },
   {
-    id: 23,
+    id: 31,
     name: "Stainless Steel Locket Chain",
     code: "NEC011",
     price: 800,
@@ -196,7 +260,7 @@ export const products: Product[] = [
     category: "necklace"
   },
   {
-    id: 24,
+    id: 32,
     name: "Stainless Steel Locket Chain",
     code: "NEC012",
     price: 750,
@@ -204,7 +268,7 @@ export const products: Product[] = [
     category: "necklace"
   },
   {
-    id: 25,
+    id: 33,
     name: "Stainless Steel Locket Chain",
     code: "NEC013",
     price: 800,
@@ -212,7 +276,7 @@ export const products: Product[] = [
     category: "necklace"
   },
   {
-    id: 26,
+    id: 34,
     name: "Stainless Steel Locket Chain",
     code: "NEC014",
     price: 800,
@@ -220,7 +284,7 @@ export const products: Product[] = [
     category: "necklace"
   },
   {
-    id: 27,
+    id: 35,
     name: "Stainless Steel Locket Chain",
     code: "NEC015",
     price: 800,
@@ -228,7 +292,7 @@ export const products: Product[] = [
     category: "necklace"
   },
   {
-    id: 28,
+    id: 36,
     name: "Stainless Steel Locket Chain",
     code: "NEC016",
     price: 850,
@@ -236,17 +300,42 @@ export const products: Product[] = [
     category: "necklace"
   },
   {
-    id: 29,
+    id: 37,
     name: "Stainless Steel Locket Chain",
     code: "NEC017",
     price: 800,
     image: "/images/products/necklace/Stainless Steel Locket Chain17.jpg",
     category: "necklace"
   },
-  
+
   // Locket Sets
+
+   {
+    id: 38,
+    name: "Watch Style Locket Set",
+    code: "LOC026",
+    price: 1550,
+    image: "/images/products/locket-sets/Locket Set26.jpg",
+    category: "locket-sets"
+  },
   {
-    id: 30,
+    id: 39,
+    name: "Watch Style Locket Set",
+    code: "LOC027",
+    price: 1550,
+    image: "/images/products/locket-sets/Locket Set27.jpg",
+    category: "locket-sets"
+  },
+  {
+    id: 40,
+    name: "Golden Black Locket Set",
+    code: "LOC028",
+    price: 950,
+    image: "/images/products/locket-sets/Locket Set28.jpg",
+    category: "locket-sets"
+  },
+  {
+    id: 41,
     name: "Pearl Locket Set",
     code: "LOC001",
     price: 1050,
@@ -254,7 +343,7 @@ export const products: Product[] = [
     category: "locket-sets"
   },
   {
-    id: 31,
+    id: 42,
     name: "Golden Black Locket Set",
     code: "LOC002",
     price: 1150,
@@ -262,7 +351,7 @@ export const products: Product[] = [
     category: "locket-sets"
   },
   {
-    id: 32,
+    id: 43,
     name: "Golden Black Locket Set",
     code: "LOC003",
     price: 1150,
@@ -270,7 +359,7 @@ export const products: Product[] = [
     category: "locket-sets"
   },
   {
-    id: 33,
+    id: 44,
     name: "Locket Set with Studs and Bangle",
     code: "LOC004",
     price: 850,
@@ -278,7 +367,7 @@ export const products: Product[] = [
     category: "locket-sets"
   },
   {
-    id: 34,
+    id: 45,
     name: "Stainless Steel Silver Locket Set",
     code: "LOC005",
     price: 950,
@@ -286,7 +375,7 @@ export const products: Product[] = [
     category: "locket-sets"
   },
   {
-    id: 35,
+    id: 46,
     name: "Stainless Steel Silver Locket Set",
     code: "LOC006",
     price: 950,
@@ -294,7 +383,7 @@ export const products: Product[] = [
     category: "locket-sets"
   },
   {
-    id: 36,
+    id: 47,
     name: "Stainless Steel Silver Locket Set",
     code: "LOC007",
     price: 950,
@@ -302,7 +391,7 @@ export const products: Product[] = [
     category: "locket-sets"
   },
   {
-    id: 37,
+    id: 48,
     name: "Stylish Black Stone Locket Set",
     code: "LOC008",
     price: 950,
@@ -310,7 +399,7 @@ export const products: Product[] = [
     category: "locket-sets"
   },
   {
-    id: 38,
+    id: 49,
     name: "Stylish Pink Stone Locket Set",
     code: "LOC009",
     price: 950,
@@ -318,7 +407,7 @@ export const products: Product[] = [
     category: "locket-sets"
   },
   {
-    id: 39,
+    id: 50,
     name: "Stylish Green Stone Locket Set",
     code: "LOC010",
     price: 950,
@@ -326,7 +415,7 @@ export const products: Product[] = [
     category: "locket-sets"
   },
   {
-    id: 40,
+    id: 51,
     name: "Stylish Silver Locket Set",
     code: "LOC011",
     price: 950,
@@ -334,7 +423,7 @@ export const products: Product[] = [
     category: "locket-sets"
   },
   {
-    id: 41,
+    id: 52,
     name: "Stylish Dark Green Locket Set",
     code: "LOC012",
     price: 950,
@@ -342,7 +431,7 @@ export const products: Product[] = [
     category: "locket-sets"
   },
   {
-    id: 42,
+    id: 53,
     name: "Stylish Shampion Gold Locket Set",
     code: "LOC013",
     price: 950,
@@ -350,7 +439,7 @@ export const products: Product[] = [
     category: "locket-sets"
   },
   {
-    id: 43,
+    id: 54,
     name: "Reddish Mehroon Locket Set",
     code: "LOC014",
     price: 950,
@@ -358,7 +447,7 @@ export const products: Product[] = [
     category: "locket-sets"
   },
   {
-    id: 44,
+    id: 55,
     name: "Stylish Light Green Locket Set",
     code: "LOC015",
     price: 950,
@@ -366,7 +455,7 @@ export const products: Product[] = [
     category: "locket-sets"
   },
   {
-    id: 45,
+    id: 56,
     name: "Stylish Pink Locket Set",
     code: "LOC016",
     price: 950,
@@ -374,7 +463,7 @@ export const products: Product[] = [
     category: "locket-sets"
   },
   {
-    id: 46,
+    id: 57,
     name: "Golden Locket Set",
     code: "LOC017",
     price: 1050,
@@ -382,7 +471,7 @@ export const products: Product[] = [
     category: "locket-sets"
   },
   {
-    id: 47,
+    id: 58,
     name: "Golden Black Locket Set",
     code: "LOC018",
     price: 1150,
@@ -390,7 +479,7 @@ export const products: Product[] = [
     category: "locket-sets"
   },
   {
-    id: 48,
+    id: 59,
     name: "Stylish Light Pink Locket Set",
     code: "LOC019",
     price: 950,
@@ -398,7 +487,7 @@ export const products: Product[] = [
     category: "locket-sets"
   },
   {
-    id: 49,
+    id: 60,
     name: "Stylish Cut work Pink Locket Set",
     code: "LOC020",
     price: 900,
@@ -406,7 +495,7 @@ export const products: Product[] = [
     category: "locket-sets"
   },
   {
-    id: 50,
+    id: 61,
     name: "Stylish Cut work Black Locket Set",
     code: "LOC021",
     price: 900,
@@ -414,7 +503,7 @@ export const products: Product[] = [
     category: "locket-sets"
   },
   {
-    id: 51,
+    id: 62,
     name: "Silver Pink Stone Locket Set",
     code: "LOC022",
     price: 1050,
@@ -422,7 +511,7 @@ export const products: Product[] = [
     category: "locket-sets"
   },
   {
-    id: 52,
+    id: 63,
     name: "Silver Ferozi Stone Locket Set",
     code: "LOC023",
     price: 1050,
@@ -430,7 +519,7 @@ export const products: Product[] = [
     category: "locket-sets"
   },
   {
-    id: 53,
+    id: 64,
     name: "Silver Reddish Mehroon Stone Locket Set",
     code: "LOC024",
     price: 1050,
@@ -438,7 +527,7 @@ export const products: Product[] = [
     category: "locket-sets"
   },
   {
-    id: 54,
+    id: 65,
     name: "Silver Black Stone Locket Set",
     code: "LOC025",
     price: 1050,
@@ -446,8 +535,9 @@ export const products: Product[] = [
     category: "locket-sets"
   },
   // Rings
+
   {
-    id: 55,
+    id: 66,
     name: "Kashmiri Rings",
     code: "RIN001",
     price: 499,
@@ -455,7 +545,7 @@ export const products: Product[] = [
     category: "rings"
   },
   {
-    id: 56,
+    id: 67,
     name: "Stainless Steel Golden Black White Ring",
     code: "RIN002",
     price: 380,
@@ -463,7 +553,7 @@ export const products: Product[] = [
     category: "rings"
   },
   {
-    id: 57,
+    id: 68,
     name: "Golden Band Ring",
     code: "RIN003",
     price: 499,
@@ -471,7 +561,7 @@ export const products: Product[] = [
     category: "rings"
   },
   {
-    id: 58,
+    id: 69,
     name: "Silver Golden Band Ring",
     code: "RIN004",
     price: 499,
@@ -479,7 +569,7 @@ export const products: Product[] = [
     category: "rings"
   },
   {
-    id: 59,
+    id: 70,
     name: "Stainless Steel Stone Ring",
     code: "RIN005",
     price: 400,
@@ -487,16 +577,24 @@ export const products: Product[] = [
     category: "rings"
   },
   {
-    id: 60,
+    id: 71,
     name: "Stainless Steel Stone Ring",
     code: "RIN006",
     price: 400,
     image: "/images/products/rings/Stainless Steel Stone Rings1.jpg",
     category: "rings"
   },
+   {
+    id: 72,
+    name: "Stainless Steel Golden Ring",
+    code: "RIN007",
+    price: 450,
+    image: "/images/products/rings/Stainless Steel Golden Ring1.jpg",
+    category: "rings"
+  },
   // Watches
   {
-    id: 61,
+    id: 73,
     name: "Vintage Style Black Dial Stainless Steel Watch",
     code: "WAT001",
     price: 3450,
@@ -504,7 +602,7 @@ export const products: Product[] = [
     category: "watches"
   },
   {
-    id: 62,
+    id: 74,
     name: "Vintage Style Golden Dial Stainless Steel Watch",
     code: "WAT002",
     price: 3450,
@@ -512,7 +610,7 @@ export const products: Product[] = [
     category: "watches"
   },
   {
-    id: 63,
+    id: 75,
     name: "Vintage Style Green Dial Stainless Steel Watch",
     code: "WAT003",
     price: 3450,
@@ -520,7 +618,7 @@ export const products: Product[] = [
     category: "watches"
   },
   {
-    id: 64,
+    id: 76,
     name: "Vintage Style White Dial Stainless Steel Watch",
     code: "WAT004",
     price: 3450,
@@ -528,7 +626,7 @@ export const products: Product[] = [
     category: "watches"
   },
   {
-    id: 65,
+    id: 77,
     name: "Elegant Black Square Dial Stainless Steel Watch",
     code: "WAT005",
     price: 3800,
@@ -536,7 +634,7 @@ export const products: Product[] = [
     category: "watches"
   },
   {
-    id: 66,
+    id: 78,
     name: "Elegant Golden Square Dial Stainless Steel Watch",
     code: "WAT006",
     price: 3800,
@@ -544,7 +642,7 @@ export const products: Product[] = [
     category: "watches"
   },
   {
-    id: 67,
+    id: 79,
     name: "Elegant Green Square Dial Stainless Steel Watch",
     code: "WAT007",
     price: 3800,
@@ -552,7 +650,7 @@ export const products: Product[] = [
     category: "watches"
   },
   {
-    id: 68,
+    id: 80,
     name: "Elegant White Square Dial Stainless Steel Watch",
     code: "WAT008",
     price: 3800,
@@ -560,7 +658,7 @@ export const products: Product[] = [
     category: "watches"
   },
    {
-    id: 69,
+    id: 81,
     name: "Premium Quality Silver Chain Watch",
     code: "WAT009",
     price: 2100,
@@ -568,7 +666,7 @@ export const products: Product[] = [
     category: "watches"
   },
    {
-    id: 70,
+    id: 82,
     name: "Premium Quality Golden Chain Watch",
     code: "WAT010",
     price: 2100,
@@ -576,7 +674,7 @@ export const products: Product[] = [
     category: "watches"
   },
   {
-    id: 71,
+    id: 83,
     name: "Premium Quality Golden Silver Chain Watch",
     code: "WAT011",
     price: 2100,
@@ -584,7 +682,7 @@ export const products: Product[] = [
     category: "watches"
   },
   {
-    id: 72,
+    id: 84,
     name: "Elegance Ladies Watch",
     code: "WAT012",
     price: 2350,
@@ -592,7 +690,7 @@ export const products: Product[] = [
     category: "watches"
   },
   {
-    id: 73,
+    id: 85,
     name: "Elegance Silver Ladies Watch",
     code: "WAT013",
     price: 2050,
@@ -600,7 +698,7 @@ export const products: Product[] = [
     category: "watches"
   },
   {
-    id: 74,
+    id: 86,
     name: "Elegance Golden Silver Ladies Watch",
     code: "WAT014",
     price: 2450,
@@ -608,7 +706,7 @@ export const products: Product[] = [
     category: "watches"
   },
   {
-    id: 75,
+    id: 87,
     name: "Elegance Ladies Watch",
     code: "WAT015",
     price: 2150,
@@ -616,7 +714,7 @@ export const products: Product[] = [
     category: "watches"
   },
   {
-    id: 76,
+    id: 88,
     name: "Elegance Golden Silver Ladies Watch",
     code: "WAT016",
     price: 2050,
@@ -624,7 +722,7 @@ export const products: Product[] = [
     category: "watches"
   },
   {
-    id: 77,
+    id: 89,
     name: "Elegance Golden Silver Ladies Watch",
     code: "WAT017",
     price: 2150,
@@ -632,7 +730,7 @@ export const products: Product[] = [
     category: "watches"
   },
   {
-    id: 78,
+    id: 90,
     name: "Elegance Silver Ladies Watch",
     code: "WAT018",
     price: 2150,
@@ -640,8 +738,64 @@ export const products: Product[] = [
     category: "watches"
   },
   // Bracelet and Bangles
+   {
+    id: 91,
+    name: "Bracelet Chain With Ring",
+    code: "BRA011",
+    price: 900,
+    image: "/images/products/bracelet-bangles/Bracelet Chain With Ring.jpg",
+    category: "bracelet-bangles"
+  },
   {
-    id: 79,
+    id: 92,
+    name: "Stainless Steel Golden Black Bracelet",
+    code: "BRA012",
+    price: 850,
+    image: "/images/products/bracelet-bangles/Stainles Steel Bracelet9.jpg",
+    category: "bracelet-bangles"
+  },
+  {
+    id: 93,
+    name: "Stainless Steel Block Bracelet",
+    code: "BRA013",
+    price: 850,
+    image: "/images/products/bracelet-bangles/Stainless Steel Blocks Bracelet.jpg",
+    category: "bracelet-bangles"
+  },
+  {
+    id: 94,
+    name: "Golden Bangle",
+    code: "BAN006",
+    price: 1380,
+    image: "/images/products/bracelet-bangles/Golden Bangle.jpg",
+    category: "bracelet-bangles"
+  },
+  {
+    id: 95,
+    name: "Golden Bangle",
+    code: "BAN007",
+    price: 1380,
+    image: "/images/products/bracelet-bangles/Golden Bangle1.jpg",
+    category: "bracelet-bangles"
+  },
+  {
+    id: 96,
+    name: "Golden Bangle",
+    code: "BAN008",
+    price: 1380,
+    image: "/images/products/bracelet-bangles/Golden Bangle2.jpg",
+    category: "bracelet-bangles"
+  },
+  {
+    id: 97,
+    name: "Silver Grey Band",
+    code: "BAN009",
+    price: 550,
+    image: "/images/products/bracelet-bangles/Silver Grey Band.jpg",
+    category: "bracelet-bangles"
+  },
+  {
+    id: 98,
     name: "Blue Stone Bracelet",
     code: "BRA001",
     price: 850,
@@ -649,7 +803,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 80,
+    id: 99,
     name: "Stainless Steel Bracelet",
     code: "BRA002",
     price: 850,
@@ -657,7 +811,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 81,
+    id: 100,
     name: "Stainless Steel Bracelet",
     code: "BRA003",
     price: 850,
@@ -665,7 +819,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 82,
+    id: 101,
     name: "Stainless Steel Bracelet",
     code: "BRA004",
     price: 850,
@@ -673,7 +827,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 83,
+    id: 102,
     name: "Stainless Steel Bracelet",
     code: "BRA005",
     price: 850,
@@ -681,7 +835,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 84,
+    id: 103,
     name: "Stainless Steel Bracelet",
     code: "BRA006",
     price: 850,
@@ -689,7 +843,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 85,
+    id: 104,
     name: "Stainless Steel Bracelet",
     code: "BRA007",
     price: 850,
@@ -697,7 +851,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 86,
+    id: 105,
     name: "Stainless Steel Bracelet",
     code: "BRA008",
     price: 850,
@@ -705,7 +859,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 87,
+    id: 106,
     name: "Stainless Steel Bracelet",
     code: "BRA009",
     price: 850,
@@ -713,7 +867,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 88,
+    id: 107,
     name: "Stainless Steel Golden Bangle",
     code: "BAN001",
     price: 800,
@@ -721,7 +875,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 89,
+    id: 108,
     name: "Stainless Steel Silver Bangle",
     code: "BAN002",
     price: 800,
@@ -729,7 +883,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 90,
+    id: 109,
     name: "Stainless Steel Golden Black Bangle",
     code: "BAN003",
     price: 800,
@@ -737,7 +891,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 91,
+    id: 110,
     name: "Stainless Steel Golden Round Bangle",
     code: "BAN004",
     price: 1050,
@@ -745,7 +899,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 92,
+    id: 111,
     name: "Stainless Steel Golden White Stone Bangle",
     code: "BAN005",
     price: 1050,
@@ -753,7 +907,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 93,
+    id: 112,
     name: "White Pearl Bracelet",
     code: "BRA010",
     price: 800,
