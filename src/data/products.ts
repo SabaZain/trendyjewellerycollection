@@ -914,8 +914,201 @@ export const products: Product[] = [
     image: "/images/products/bracelet-bangles/White Pearl Bracelet.jpg",
     category: "bracelet-bangles"
   },
-  
-  
+
+  // Kids Corner
+  // Add your Kids Corner products below
+  {
+    id: 113,
+    name: "Rainbow Stone Crystal Beads Spiral Kara",
+    code: "KID001",
+    price: 550,
+    image: "/images/products/kids-corner/Rainbow Stone Crystal Beads Spiral Kara1.jpg",
+    category: "kids-corner"
+  },
+  {
+    id: 114,
+    name: "Rainbow Stone Crystal Beads Spiral Kara(2 Different Colors)",
+    code: "KID002",
+    price: 550,
+    image: "/images/products/kids-corner/Rainbow Stone Crystal Beads Spiral Kara2.jpg",
+    category: "kids-corner"
+  },
+  {
+    id: 115,
+    name: "Multicolor Bracelet With Watch",
+    code: "KID003",
+    price: 600,
+    image: "/images/products/kids-corner/Multicolor Bracelets With Watch1.jpg",
+    category: "kids-corner"
+  },
+  {
+    id: 116,
+    name: "Multicolor Bracelet With Watch",
+    code: "KID004",
+    price: 600,
+    image: "/images/products/kids-corner/Multicolor Bracelets With Watch2.jpg",
+    category: "kids-corner"
+  },
+  {
+    id: 117,
+    name: "Multicolor Different Characters Bracelet With Watch",
+    code: "KID005",
+    price: 600,
+    image: "/images/products/kids-corner/Multicolor Bracelets With Watch3.jpg",
+    category: "kids-corner"
+  },
+  {
+    id: 118,
+    name: "Mosquito Repellent Glow In The Dark Silicone Bracelet",
+    code: "KID006",
+    price: 750,
+    image: "/images/products/kids-corner/Mosquito Repellent Glow In The Dark Silicone Bracelet1.jpg",
+    category: "kids-corner"
+  },
+  {
+    id: 119,
+    name: "Mosquito Repellent Glow In The Dark Silicone Bracelet",
+    code: "KID007",
+    price: 750,
+    image: "/images/products/kids-corner/Mosquito Repellent Glow In The Dark Silicone Bracelet2.jpg",
+    category: "kids-corner"
+  },
+  {
+    id: 120,
+    name: "5 PCS Cute Cartoon Characters Hair Clips",
+    code: "KID008",
+    price: 550,
+    image: "/images/products/kids-corner/5 PCS Random Cute Cartoon Characters Hair Clips1.jpg",
+    category: "kids-corner"
+  },
+  {
+    id: 121,
+    name: "5 PCS Cute Cartoon Characters Hair Clips",
+    code: "KID009",
+    price: 550,
+    image: "/images/products/kids-corner/5 PCS Random Cute Cartoon Characters Hair Clips2.jpg",
+    category: "kids-corner"
+  },
+  {
+    id: 122,
+    name: "5 PCS Cute Cartoon Characters Hair Clips",
+    code: "KID010",
+    price: 550,
+    image: "/images/products/kids-corner/5 PCS Random Cute Cartoon Characters Hair Clips3.jpg",
+    category: "kids-corner"
+  },
+  {
+    id: 123,
+    name: "Artificial Cute Character Nails",
+    code: "KID011",
+    price: 600,
+    image: "/images/products/kids-corner/Artificial Cute Character Nails1.jpg",
+    category: "kids-corner"
+  },
+  {
+    id: 124,
+    name: "Artificial Cute Character Nails with Rubber bands",
+    code: "KID012",
+    price: 600,
+    image: "/images/products/kids-corner/Artificial Cute Character Nails2.jpg",
+    category: "kids-corner"
+  },
+  {
+    id: 125,
+    name: "Artificial Cute Character Nails with Rubber bands",
+    code: "KID013",
+    price: 600,
+    image: "/images/products/kids-corner/Artificial Cute Character Nails3.jpg",
+    category: "kids-corner"
+  },
+  {
+    id: 126,
+    name: "Fancy Kids Bracelet",
+    code: "KID014",
+    price: 550,
+    image: "/images/products/kids-corner/Fancy Kids Bracelet1.jpg",
+    category: "kids-corner"
+  },
+  {
+    id: 126,
+    name: "Fancy Kids Bracelet",
+    code: "KID015",
+    price: 550,
+    image: "/images/products/kids-corner/Fancy Kids Bracelet2.jpg",
+    category: "kids-corner"
+  },
+  {
+    id: 127,
+    name: "Flower Catchers 3PCS",
+    code: "KID016",
+    price: 580,
+    image: "/images/products/kids-corner/Flower Catchers 3PCS1.jpg",
+    category: "kids-corner"
+  },
+  {
+    id: 128,
+    name: "Flower Catchers 3PCS",
+    code: "KID017",
+    price: 580,
+    image: "/images/products/kids-corner/Flower Catchers 3PCS2.jpg",
+    category: "kids-corner"
+  },
+  {
+    id: 129,
+    name: "Kids Glasses With Bracelet And Mini Catchers Gift Set",
+    code: "KID018",
+    price: 800,
+    image: "/images/products/kids-corner/Kids Glasses With Bracelet And Mini Catchers Gift Set1.jpg",
+    category: "kids-corner"
+  },
+  {
+    id: 130,
+    name: "Kids Glasses With Bracelet And Mini Catchers Gift Set",
+    code: "KID019",
+    price: 800,
+    image: "/images/products/kids-corner/Kids Glasses With Bracelet And Mini Catchers Gift Set2.jpg",
+    category: "kids-corner"
+  },
+  {
+    id: 131,
+    name: "Kids Glasses With Bracelet And Mini Catchers Gift Set",
+    code: "KID020",
+    price: 800,
+    image: "/images/products/kids-corner/Kids Glasses With Bracelet And Mini Catchers Gift Set3.jpg",
+    category: "kids-corner"
+  },
+  {
+    id: 132,
+    name: "Kids Necklace Pink Kitty Set",
+    code: "KID021",
+    price: 1050,
+    image: "/images/products/kids-corner/Kids Necklace Set1.jpg",
+    category: "kids-corner"
+  },
+  {
+    id: 133,
+    name: "Kids Necklace Purple Kuromi Set",
+    code: "KID022",
+    price: 1050,
+    image: "/images/products/kids-corner/Kids Necklace Set2.jpg",
+    category: "kids-corner"
+  },
+  {
+    id: 134,
+    name: "Kids Necklace Set",
+    code: "KID023",
+    price: 1050,
+    image: "/images/products/kids-corner/Kids Necklace Set3.jpg",
+    category: "kids-corner"
+  },
+   {
+    id: 135,
+    name: "Kids Rubber Band And Catchers Gift Box",
+    code: "KID024",
+    price: 550,
+    image: "/images/products/kids-corner/Kids Rubber Band Box1.jpg",
+    category: "kids-corner"
+  },
   
 ];
 

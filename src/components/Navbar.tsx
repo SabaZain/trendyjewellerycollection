@@ -12,6 +12,7 @@ const productCategories = [
   { href: "/products/rings", label: "Rings" },
   { href: "/products/bracelet-bangles", label: "Bracelet and Bangles" },
   { href: "/products/watches", label: "Watches" },
+  { href: "/products/kids-corner", label: "Kids Corner" },
 ];
 
 export default function Navbar() {

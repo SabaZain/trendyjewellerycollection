@@ -93,6 +93,11 @@ export default function Footer() {
                   Watches
                 </Link>
               </li>
+              <li>
+                <Link href="/products/kids-corner" className="text-stone-400 hover:text-white transition-colors text-sm font-medium">
+                  Kids Corner
+                </Link>
+              </li>
             </ul>
           </div>
 

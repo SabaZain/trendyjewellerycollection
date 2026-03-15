@@ -13,6 +13,7 @@ const categories = [
   { name: "Rings", href: "/products/rings", image: "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=400&h=500&fit=crop&q=80" },
   { name: "Bracelet & Bangles", href: "/products/bracelet-bangles", image: "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=400&h=500&fit=crop&q=80" },
   { name: "Watches", href: "/products/watches", image: "https://images.unsplash.com/photo-1509048191080-d2984bad6ae5?w=400&h=500&fit=crop&q=80" },
+  { name: "Kids Corner", href: "/products/kids-corner", image: "https://images.unsplash.com/photo-1519457431-44ccd64a579b?w=400&h=500&fit=crop&q=80" },
 ];
 
 // Shuffle function to randomize array
@@ -130,6 +131,43 @@ export default function HomePage() {
                 </div>
               </Link>
             ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Kids Corner Highlighted Section */}
+      <section className="py-16 md:py-24 bg-gradient-to-r from-pink-100 via-purple-50 to-blue-100">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 md:gap-12 items-center">
+            <div className="order-2 lg:order-1">
+              <div className="relative aspect-square max-w-md mx-auto lg:max-w-full overflow-hidden rounded-2xl shadow-2xl border-4 border-pink-300">
+                <Image
+                  src="https://images.unsplash.com/photo-1519457431-44ccd64a579b?w=800&h=800&fit=crop&q=80"
+                  alt="Kids Corner - Adorable jewellery for young ones"
+                  fill
+                  className="object-cover"
+                  sizes="(max-width: 1024px) 90vw, 50vw"
+                />
+              </div>
+            </div>
+            <div className="order-1 lg:order-2 text-center lg:text-left">
+              <p className="text-pink-600 text-sm uppercase tracking-[0.2em] mb-3 font-semibold">
+                New & Exclusive
+              </p>
+              <h2 className="text-3xl md:text-4xl lg:text-5xl font-serif font-bold text-stone-900 mb-4">
+                Kids Corner
+              </h2>
+              <p className="text-stone-600 text-base md:text-lg mb-6 max-w-lg mx-auto lg:mx-0">
+                Delightful and playful jewellery pieces designed especially for your little ones. 
+                Safe, comfortable, and beautifully crafted for young jewellery lovers.
+              </p>
+              <Link
+                href="/products/kids-corner"
+                className="inline-block px-8 py-3 bg-gradient-to-r from-pink-500 to-purple-500 hover:from-pink-600 hover:to-purple-600 text-white font-semibold transition-all duration-300 uppercase tracking-wider text-sm shadow-lg hover:shadow-xl rounded-full"
+              >
+                Explore Kids Collection
+              </Link>
+            </div>
           </div>
         </div>
       </section>
