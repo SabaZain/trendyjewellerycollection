@@ -271,7 +271,7 @@ export const products: Product[] = [
     id: 33,
     name: "Stainless Steel Locket Chain",
     code: "NEC013",
-    price: 800,
+    price: 1150,
     image: "/images/products/necklace/Stainless Steel Locket Chain13.jpg",
     category: "necklace"
   },
@@ -295,7 +295,7 @@ export const products: Product[] = [
     id: 36,
     name: "Stainless Steel Locket Chain",
     code: "NEC016",
-    price: 850,
+    price: 1250,
     image: "/images/products/necklace/Stainless Steel Locket Chain16.jpg",
     category: "necklace"
   },
@@ -750,7 +750,7 @@ export const products: Product[] = [
     id: 92,
     name: "Stainless Steel Golden Black Bracelet",
     code: "BRA012",
-    price: 850,
+    price: 1250,
     image: "/images/products/bracelet-bangles/Stainles Steel Bracelet9.jpg",
     category: "bracelet-bangles"
   },
@@ -758,7 +758,7 @@ export const products: Product[] = [
     id: 93,
     name: "Stainless Steel Block Bracelet",
     code: "BRA013",
-    price: 850,
+    price: 1500,
     image: "/images/products/bracelet-bangles/Stainless Steel Blocks Bracelet.jpg",
     category: "bracelet-bangles"
   },
@@ -798,7 +798,7 @@ export const products: Product[] = [
     id: 98,
     name: "Blue Stone Bracelet",
     code: "BRA001",
-    price: 850,
+    price: 1350,
     image: "/images/products/bracelet-bangles/Blue Stone Bracelet.jpg",
     category: "bracelet-bangles"
   },
@@ -830,7 +830,7 @@ export const products: Product[] = [
     id: 102,
     name: "Stainless Steel Bracelet",
     code: "BRA005",
-    price: 850,
+    price: 1150,
     image: "/images/products/bracelet-bangles/Stainles Steel Bracelet4.jpg",
     category: "bracelet-bangles"
   },
@@ -838,7 +838,7 @@ export const products: Product[] = [
     id: 103,
     name: "Stainless Steel Bracelet",
     code: "BRA006",
-    price: 850,
+    price: 1350,
     image: "/images/products/bracelet-bangles/Stainles Steel Bracelet5.jpg",
     category: "bracelet-bangles"
   },
@@ -870,7 +870,7 @@ export const products: Product[] = [
     id: 107,
     name: "Stainless Steel Golden Bangle",
     code: "BAN001",
-    price: 800,
+    price: 900,
     image: "/images/products/bracelet-bangles/Stainless Steel Golden Bangle.jpg",
     category: "bracelet-bangles"
   },
@@ -878,7 +878,7 @@ export const products: Product[] = [
     id: 108,
     name: "Stainless Steel Silver Bangle",
     code: "BAN002",
-    price: 800,
+    price: 900,
     image: "/images/products/bracelet-bangles/Stainless Steel Silver Bangle.jpg",
     category: "bracelet-bangles"
   },
@@ -886,7 +886,7 @@ export const products: Product[] = [
     id: 109,
     name: "Stainless Steel Golden Black Bangle",
     code: "BAN003",
-    price: 800,
+    price: 1200,
     image: "/images/products/bracelet-bangles/Stainless Steel Golden Black Bangle.jpg",
     category: "bracelet-bangles"
   },
@@ -894,7 +894,7 @@ export const products: Product[] = [
     id: 110,
     name: "Stainless Steel Golden Round Bangle",
     code: "BAN004",
-    price: 1050,
+    price: 1250,
     image: "/images/products/bracelet-bangles/Stainless Steel Golden Round Bangle.jpg",
     category: "bracelet-bangles"
   },
@@ -902,7 +902,7 @@ export const products: Product[] = [
     id: 111,
     name: "Stainless Steel Golden White Stone Bangle",
     code: "BAN005",
-    price: 1050,
+    price: 1250,
     image: "/images/products/bracelet-bangles/Stainless Steel Golden White Stone Bangle.jpg",
     category: "bracelet-bangles"
   },
@@ -910,7 +910,7 @@ export const products: Product[] = [
     id: 112,
     name: "White Pearl Bracelet",
     code: "BRA010",
-    price: 800,
+    price: 1150,
     image: "/images/products/bracelet-bangles/White Pearl Bracelet.jpg",
     category: "bracelet-bangles"
   },
@@ -1081,7 +1081,7 @@ export const products: Product[] = [
     id: 132,
     name: "Kids Necklace Pink Kitty Set",
     code: "KID021",
-    price: 1050,
+    price: 1350,
     image: "/images/products/kids-corner/Kids Necklace Set1.jpg",
     category: "kids-corner"
   },
@@ -1089,7 +1089,7 @@ export const products: Product[] = [
     id: 133,
     name: "Kids Necklace Purple Kuromi Set",
     code: "KID022",
-    price: 1050,
+    price: 1350,
     image: "/images/products/kids-corner/Kids Necklace Set2.jpg",
     category: "kids-corner"
   },
@@ -1097,7 +1097,7 @@ export const products: Product[] = [
     id: 134,
     name: "Kids Necklace Set",
     code: "KID023",
-    price: 1050,
+    price: 1350,
     image: "/images/products/kids-corner/Kids Necklace Set3.jpg",
     category: "kids-corner"
   },
