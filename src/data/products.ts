@@ -862,7 +862,7 @@ export const products: Product[] = [
     id: 106,
     name: "Stainless Steel Bracelet",
     code: "BRA009",
-    price: 850,
+    price: 1250,
     image: "/images/products/bracelet-bangles/Stainles Steel Bracelet8.jpg",
     category: "bracelet-bangles"
   },
