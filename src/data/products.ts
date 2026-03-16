@@ -207,7 +207,7 @@ export const products: Product[] = [
     id: 25,
     name: "Stainless Steel Locket Chain",
     code: "NEC005",
-    price: 800,
+    price: 1250,
     image: "/images/products/necklace/Stainless Steel Locket Chain5.jpg",
     category: "necklace"
   },
@@ -231,7 +231,7 @@ export const products: Product[] = [
     id: 28,
     name: "Stainless Steel Locket Chain",
     code: "NEC008",
-    price: 850,
+    price: 1150,
     image: "/images/products/necklace/Stainless Steel Locket Chain8.jpg",
     category: "necklace"
   },
@@ -263,7 +263,7 @@ export const products: Product[] = [
     id: 32,
     name: "Stainless Steel Locket Chain",
     code: "NEC012",
-    price: 750,
+    price: 950,
     image: "/images/products/necklace/Stainless Steel Locket Chain12.jpg",
     category: "necklace"
   },
@@ -271,7 +271,7 @@ export const products: Product[] = [
     id: 33,
     name: "Stainless Steel Locket Chain",
     code: "NEC013",
-    price: 1150,
+    price: 1250,
     image: "/images/products/necklace/Stainless Steel Locket Chain13.jpg",
     category: "necklace"
   },
@@ -287,7 +287,7 @@ export const products: Product[] = [
     id: 35,
     name: "Stainless Steel Locket Chain",
     code: "NEC015",
-    price: 800,
+    price: 1250,
     image: "/images/products/necklace/Stainless Steel Locket Chain15.jpg",
     category: "necklace"
   },
@@ -303,7 +303,7 @@ export const products: Product[] = [
     id: 37,
     name: "Stainless Steel Locket Chain",
     code: "NEC017",
-    price: 800,
+    price: 1250,
     image: "/images/products/necklace/Stainless Steel Locket Chain17.jpg",
     category: "necklace"
   },
@@ -806,7 +806,7 @@ export const products: Product[] = [
     id: 99,
     name: "Stainless Steel Bracelet",
     code: "BRA002",
-    price: 850,
+    price: 1250,
     image: "/images/products/bracelet-bangles/Stainles Steel Bracelet1.jpg",
     category: "bracelet-bangles"
   },
@@ -814,7 +814,7 @@ export const products: Product[] = [
     id: 100,
     name: "Stainless Steel Bracelet",
     code: "BRA003",
-    price: 850,
+    price: 1250,
     image: "/images/products/bracelet-bangles/Stainles Steel Bracelet2.jpg",
     category: "bracelet-bangles"
   },
@@ -822,7 +822,7 @@ export const products: Product[] = [
     id: 101,
     name: "Stainless Steel Bracelet",
     code: "BRA004",
-    price: 850,
+    price: 1250,
     image: "/images/products/bracelet-bangles/Stainles Steel Bracelet3.jpg",
     category: "bracelet-bangles"
   },
@@ -830,7 +830,7 @@ export const products: Product[] = [
     id: 102,
     name: "Stainless Steel Bracelet",
     code: "BRA005",
-    price: 1150,
+    price: 1250,
     image: "/images/products/bracelet-bangles/Stainles Steel Bracelet4.jpg",
     category: "bracelet-bangles"
   },
@@ -894,7 +894,7 @@ export const products: Product[] = [
     id: 110,
     name: "Stainless Steel Golden Round Bangle",
     code: "BAN004",
-    price: 1250,
+    price: 1350,
     image: "/images/products/bracelet-bangles/Stainless Steel Golden Round Bangle.jpg",
     category: "bracelet-bangles"
   },
@@ -902,7 +902,7 @@ export const products: Product[] = [
     id: 111,
     name: "Stainless Steel Golden White Stone Bangle",
     code: "BAN005",
-    price: 1250,
+    price: 1350,
     image: "/images/products/bracelet-bangles/Stainless Steel Golden White Stone Bangle.jpg",
     category: "bracelet-bangles"
   },
@@ -1081,7 +1081,7 @@ export const products: Product[] = [
     id: 132,
     name: "Kids Necklace Pink Kitty Set",
     code: "KID021",
-    price: 1350,
+    price: 1250,
     image: "/images/products/kids-corner/Kids Necklace Set1.jpg",
     category: "kids-corner"
   },
@@ -1089,7 +1089,7 @@ export const products: Product[] = [
     id: 133,
     name: "Kids Necklace Purple Kuromi Set",
     code: "KID022",
-    price: 1350,
+    price: 1250,
     image: "/images/products/kids-corner/Kids Necklace Set2.jpg",
     category: "kids-corner"
   },
@@ -1097,7 +1097,7 @@ export const products: Product[] = [
     id: 134,
     name: "Kids Necklace Set",
     code: "KID023",
-    price: 1350,
+    price: 1250,
     image: "/images/products/kids-corner/Kids Necklace Set3.jpg",
     category: "kids-corner"
   },
