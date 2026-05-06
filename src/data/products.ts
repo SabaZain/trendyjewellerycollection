@@ -852,6 +852,54 @@ export const products: Product[] = [
   // Bracelet and Bangles
   {
     id: 105,
+    name: "Zarqoon Bangle With Ring Set",
+    code: "BAN011",
+    price: 1250,
+    image: "/images/products/bracelet-bangles/Zarqoon Bangle With Ring Set1.jpg",
+    category: "bracelet-bangles"
+  },
+  {
+    id: 106,
+    name: "Zarqoon Bangle With Ring Set",
+    code: "BAN012",
+    price: 1250,
+    image: "/images/products/bracelet-bangles/Zarqoon Bangle With Ring Set2.jpg",
+    category: "bracelet-bangles"
+  },
+  {
+    id: 107,
+    name: "Zarqoon Bangle With Ring Set",
+    code: "BAN013",
+    price: 1250,
+    image: "/images/products/bracelet-bangles/Zarqoon Bangle With Ring Set3.jpg",
+    category: "bracelet-bangles"
+  },
+  {
+    id: 108,
+    name: "Zarqoon Bangle With Ring Set",
+    code: "BAN014",
+    price: 1250,
+    image: "/images/products/bracelet-bangles/Zarqoon Bangle With Ring Set4.jpg",
+    category: "bracelet-bangles"
+  },
+  {
+    id: 109,
+    name: "Zarqoon Bangle With Ring Set",
+    code: "BAN015",
+    price: 1250,
+    image: "/images/products/bracelet-bangles/Zarqoon Bangle With Ring Set5.jpg",
+    category: "bracelet-bangles"
+  },
+  {
+    id: 110,
+    name: "Zarqoon Bangle With Ring Set",
+    code: "BAN016",
+    price: 1250,
+    image: "/images/products/bracelet-bangles/Zarqoon Bangle With Ring Set6.jpg",
+    category: "bracelet-bangles"
+  },
+  {
+    id: 111,
     name: "Black Golden Bracelet Chain With Ring",
     code: "BRA014",
     price: 1150,
@@ -859,7 +907,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 106,
+    id: 112,
     name: "Golden Green Bracelet Chain With Ring",
     code: "BRA015",
     price: 1150,
@@ -867,7 +915,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 107,
+    id: 113,
     name: "Golden Blue Bracelet",
     code: "BRA016",
     price: 1250,
@@ -875,7 +923,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 108,
+    id: 114,
     name: "Pink Flower Bracelet",
     code: "BRA017",
     price: 1250,
@@ -884,7 +932,7 @@ export const products: Product[] = [
   },
   
    {
-    id: 109,
+    id: 115,
     name: "Bracelet Chain With Ring",
     code: "BRA011",
     price: 1050,
@@ -892,7 +940,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 110,
+    id: 116,
     name: "Stainless Steel Golden Black Bracelet",
     code: "BRA012",
     price: 1250,
@@ -900,7 +948,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 111,
+    id: 117,
     name: "Stainless Steel Block Bracelet",
     code: "BRA013",
     price: 1500,
@@ -908,7 +956,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
    {
-    id: 112,
+    id: 118,
     name: "Silver Zircon Bangles Pair(Sizes 2.4,2.6,2.8)",
     code: "BAN010",
     price: 3850,
@@ -916,7 +964,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 113,
+    id: 119,
     name: "Golden Bangle",
     code: "BAN006",
     price: 1380,
@@ -924,7 +972,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 114,
+    id: 120,
     name: "Golden Bangle",
     code: "BAN007",
     price: 1380,
@@ -932,7 +980,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 115,
+    id: 121,
     name: "Golden Bangle",
     code: "BAN008",
     price: 1380,
@@ -940,7 +988,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 116,
+    id: 122,
     name: "Silver Grey Band",
     code: "BAN009",
     price: 550,
@@ -948,7 +996,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 117,
+    id: 123,
     name: "Blue Stone Bracelet",
     code: "BRA001",
     price: 1350,
@@ -956,7 +1004,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 118,
+    id: 124,
     name: "Stainless Steel Bracelet",
     code: "BRA002",
     price: 1250,
@@ -964,7 +1012,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 119,
+    id: 125,
     name: "Stainless Steel Bracelet",
     code: "BRA003",
     price: 1250,
@@ -972,7 +1020,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 120,
+    id: 126,
     name: "Stainless Steel Bracelet",
     code: "BRA004",
     price: 1250,
@@ -980,7 +1028,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 121,
+    id: 127,
     name: "Stainless Steel Bracelet",
     code: "BRA005",
     price: 1250,
@@ -988,7 +1036,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 122,
+    id: 128,
     name: "Stainless Steel Bracelet",
     code: "BRA006",
     price: 1350,
@@ -996,7 +1044,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 123,
+    id: 129,
     name: "Stainless Steel Bracelet",
     code: "BRA007",
     price: 850,
@@ -1004,7 +1052,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 124,
+    id: 130,
     name: "Stainless Steel Bracelet",
     code: "BRA008",
     price: 850,
@@ -1012,7 +1060,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 125,
+    id: 131,
     name: "Stainless Steel Bracelet",
     code: "BRA009",
     price: 1250,
@@ -1020,7 +1068,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 126,
+    id: 132,
     name: "Stainless Steel Golden Bangle",
     code: "BAN001",
     price: 900,
@@ -1028,7 +1076,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 127,
+    id: 133,
     name: "Stainless Steel Silver Bangle",
     code: "BAN002",
     price: 900,
@@ -1036,7 +1084,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 128,
+    id: 134,
     name: "Stainless Steel Golden Black Bangle",
     code: "BAN003",
     price: 1200,
@@ -1044,7 +1092,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 129,
+    id: 135,
     name: "Stainless Steel Golden Round Bangle",
     code: "BAN004",
     price: 1350,
@@ -1052,7 +1100,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 130,
+    id: 136,
     name: "Stainless Steel Golden White Stone Bangle",
     code: "BAN005",
     price: 1350,
@@ -1060,7 +1108,7 @@ export const products: Product[] = [
     category: "bracelet-bangles"
   },
   {
-    id: 131,
+    id: 137,
     name: "White Pearl Bracelet",
     code: "BRA010",
     price: 1150,
@@ -1071,7 +1119,7 @@ export const products: Product[] = [
   // Kids Corner
   // Add your Kids Corner products below
   {
-    id: 132,
+    id: 138,
     name: "Cherry Bow Clips",
     code: "KID025",
     price: 450,
@@ -1079,7 +1127,7 @@ export const products: Product[] = [
     category: "kids-corner"
   },
   {
-    id: 133,
+    id: 139,
     name: "Stylish Hair Pins Set(2 Colors Golden Silver)",
     code: "KID026",
     price: 850,
@@ -1087,7 +1135,7 @@ export const products: Product[] = [
     category: "kids-corner"
   },
   {
-    id: 134,
+    id: 140,
     name: "Multicolor Rubber Bands(12pcs Pack",
     code: "KID027",
     price: 950,
@@ -1095,7 +1143,7 @@ export const products: Product[] = [
     category: "kids-corner"
   },
   {
-    id: 135,
+    id: 141,
     name: "Rainbow Stone Crystal Beads Spiral Kara",
     code: "KID001",
     price: 550,
@@ -1103,7 +1151,7 @@ export const products: Product[] = [
     category: "kids-corner"
   },
   {
-    id: 136,
+    id: 142,
     name: "Rainbow Stone Crystal Beads Spiral Kara(2 Different Colors)",
     code: "KID002",
     price: 550,
@@ -1111,7 +1159,7 @@ export const products: Product[] = [
     category: "kids-corner"
   },
   {
-    id: 137,
+    id: 143,
     name: "Multicolor Bracelet With Watch",
     code: "KID003",
     price: 600,
@@ -1119,7 +1167,7 @@ export const products: Product[] = [
     category: "kids-corner"
   },
   {
-    id: 138,
+    id: 144,
     name: "Multicolor Bracelet With Watch",
     code: "KID004",
     price: 600,
@@ -1127,7 +1175,7 @@ export const products: Product[] = [
     category: "kids-corner"
   },
   {
-    id: 139,
+    id: 145,
     name: "Multicolor Different Characters Bracelet With Watch",
     code: "KID005",
     price: 600,
@@ -1135,7 +1183,7 @@ export const products: Product[] = [
     category: "kids-corner"
   },
   {
-    id: 140,
+    id: 146,
     name: "Mosquito Repellent Glow In The Dark Silicone Bracelet",
     code: "KID006",
     price: 750,
@@ -1143,7 +1191,7 @@ export const products: Product[] = [
     category: "kids-corner"
   },
   {
-    id: 141,
+    id: 147,
     name: "Mosquito Repellent Glow In The Dark Silicone Bracelet",
     code: "KID007",
     price: 750,
@@ -1151,7 +1199,7 @@ export const products: Product[] = [
     category: "kids-corner"
   },
   {
-    id: 142,
+    id: 148,
     name: "5 PCS Cute Cartoon Characters Hair Clips",
     code: "KID008",
     price: 550,
@@ -1159,7 +1207,7 @@ export const products: Product[] = [
     category: "kids-corner"
   },
   {
-    id: 143,
+    id: 149,
     name: "5 PCS Cute Cartoon Characters Hair Clips",
     code: "KID009",
     price: 550,
@@ -1167,7 +1215,7 @@ export const products: Product[] = [
     category: "kids-corner"
   },
   {
-    id: 144,
+    id: 150,
     name: "5 PCS Cute Cartoon Characters Hair Clips",
     code: "KID010",
     price: 550,
@@ -1175,7 +1223,7 @@ export const products: Product[] = [
     category: "kids-corner"
   },
   {
-    id: 145,
+    id: 151,
     name: "Artificial Cute Character Nails",
     code: "KID011",
     price: 600,
@@ -1183,7 +1231,7 @@ export const products: Product[] = [
     category: "kids-corner"
   },
   {
-    id: 146,
+    id: 152,
     name: "Artificial Cute Character Nails with Rubber bands",
     code: "KID012",
     price: 600,
@@ -1191,7 +1239,7 @@ export const products: Product[] = [
     category: "kids-corner"
   },
   {
-    id: 147,
+    id: 153,
     name: "Artificial Cute Character Nails with Rubber bands",
     code: "KID013",
     price: 600,
@@ -1199,7 +1247,7 @@ export const products: Product[] = [
     category: "kids-corner"
   },
   {
-    id: 148,
+    id: 154,
     name: "Fancy Kids Bracelet",
     code: "KID014",
     price: 550,
@@ -1207,7 +1255,7 @@ export const products: Product[] = [
     category: "kids-corner"
   },
   {
-    id: 149,
+    id: 155,
     name: "Fancy Kids Bracelet",
     code: "KID015",
     price: 550,
@@ -1215,7 +1263,7 @@ export const products: Product[] = [
     category: "kids-corner"
   },
   {
-    id: 150,
+    id: 156,
     name: "Flower Catchers 3PCS",
     code: "KID016",
     price: 580,
@@ -1223,7 +1271,7 @@ export const products: Product[] = [
     category: "kids-corner"
   },
   {
-    id: 151,
+    id: 157,
     name: "Flower Catchers 3PCS",
     code: "KID017",
     price: 580,
@@ -1231,7 +1279,7 @@ export const products: Product[] = [
     category: "kids-corner"
   },
   {
-    id: 152,
+    id: 158,
     name: "Kids Glasses With Bracelet And Mini Catchers Gift Set",
     code: "KID018",
     price: 800,
@@ -1239,7 +1287,7 @@ export const products: Product[] = [
     category: "kids-corner"
   },
   {
-    id: 153,
+    id: 159,
     name: "Kids Glasses With Bracelet And Mini Catchers Gift Set",
     code: "KID019",
     price: 800,
@@ -1247,7 +1295,7 @@ export const products: Product[] = [
     category: "kids-corner"
   },
   {
-    id: 154,
+    id: 160,
     name: "Kids Glasses With Bracelet And Mini Catchers Gift Set",
     code: "KID020",
     price: 800,
@@ -1255,7 +1303,7 @@ export const products: Product[] = [
     category: "kids-corner"
   },
   {
-    id: 155,
+    id: 161,
     name: "Kids Necklace Pink Kitty Set",
     code: "KID021",
     price: 1250,
@@ -1263,7 +1311,7 @@ export const products: Product[] = [
     category: "kids-corner"
   },
   {
-    id: 156,
+    id: 162,
     name: "Kids Necklace Purple Kuromi Set",
     code: "KID022",
     price: 1250,
@@ -1271,7 +1319,7 @@ export const products: Product[] = [
     category: "kids-corner"
   },
   {
-    id: 157,
+    id: 163,
     name: "Kids Necklace Set",
     code: "KID023",
     price: 1250,
@@ -1279,7 +1327,7 @@ export const products: Product[] = [
     category: "kids-corner"
   },
    {
-    id: 158,
+    id: 164,
     name: "Kids Rubber Band And Catchers Gift Box",
     code: "KID024",
     price: 550,
