@@ -6,15 +6,6 @@ import Image from "next/image";
 import { products, features } from "@/data/products";
 import ProductGrid from "@/components/ui/ProductGrid";
 
-const categories = [
-  { name: "Earrings", href: "/products/earrings", image: "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=400&h=500&fit=crop&q=80" },
-  { name: "Necklace", href: "/products/necklace", image: "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=400&h=500&fit=crop&q=80" },
-  { name: "Locket Sets", href: "/products/locket-sets", image: "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?w=400&h=500&fit=crop&q=80" },
-  { name: "Rings", href: "/products/rings", image: "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=400&h=500&fit=crop&q=80" },
-  { name: "Bracelet & Bangles", href: "/products/bracelet-bangles", image: "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=400&h=500&fit=crop&q=80" },
-  { name: "Watches", href: "/products/watches", image: "https://images.unsplash.com/photo-1509048191080-d2984bad6ae5?w=400&h=500&fit=crop&q=80" },
-  { name: "Kids Corner", href: "/products/kids-corner", image: "https://images.unsplash.com/photo-1519457431-44ccd64a579b?w=400&h=500&fit=crop&q=80" },
-];
 
 // Shuffle function to randomize array
 const shuffleArray = <T,>(array: T[]): T[] => {
@@ -25,6 +16,16 @@ const shuffleArray = <T,>(array: T[]): T[] => {
   }
   return shuffled;
 };
+
+const categories = [
+  { name: "Earrings", href: "/products/earrings", image: "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=400&h=500&fit=crop&q=80" },
+  { name: "Necklace", href: "/products/necklace", image: "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=400&h=500&fit=crop&q=80" },
+  { name: "Locket Sets", href: "/products/locket-sets", image: "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?w=400&h=500&fit=crop&q=80" },
+  { name: "Rings", href: "/products/rings", image: "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=400&h=500&fit=crop&q=80" },
+  { name: "Bracelet & Bangles", href: "/products/bracelet-bangles", image: "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=400&h=500&fit=crop&q=80" },
+  { name: "Watches", href: "/products/watches", image: "https://images.unsplash.com/photo-1509048191080-d2984bad6ae5?w=400&h=500&fit=crop&q=80" },
+  { name: "Kids Corner", href: "/products/kids-corner", image: "https://images.unsplash.com/photo-1519457431-44ccd64a579b?w=400&h=500&fit=crop&q=80" },
+];
 
 export default function HomePage() {
   const [bestSellers, setBestSellers] = useState<typeof products>([]);
